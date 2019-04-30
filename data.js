@@ -165,13 +165,13 @@ const DATA = [
   "patronus": "doe",
   "hogwartsStudent": false,
   "hogwartsStaff": true,
-  "actor": "Alan RiDATA
+  "actor": "Alan Rickman",
   "alive": false,
-  "image": "http://DATA
+  "image": "http://hp-api.herokuapp.com/images/snape.jpg"
  }, {
-  "name": "Rubeus HDATA
-  "species": "half-DATA
-  "gender": "male",DATA
+  "name": "Rubeus Hagrid",
+  "species": "half-giant",
+  "gender": "male",
   "house": "Gryffindor",
   "dateOfBirth": "06-12-1928",
   "yearOfBirth": 1928,
@@ -526,5 +526,3 @@ const DATA = [
   "alive": true,
   "image": "http://hp-api.herokuapp.com/images/filch.jpg"
  }]
-
- window.DATA = DATA;

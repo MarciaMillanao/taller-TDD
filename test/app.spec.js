@@ -29,3 +29,5 @@ describe('filterHouse', () => {
   });
 
 })
+
+//assert.deepEqual(funcion(parametro1, parametro2), resultado)
